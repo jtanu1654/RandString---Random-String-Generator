@@ -31,7 +31,7 @@ const App = () => {
   return (
     <div className="min-h-screen bg-gray-900 text-white flex items-center justify-center p-4">
       <div className="bg-gray-800 p-8 rounded-xl shadow-lg w-full max-w-md">
-        <h1 className="text-3xl md:text-4xl font-extrabold text-center mb-6 text-indigo-400">Random String Generator</h1>
+        <h1 className="text-3xl md:text-4xl font-extrabold text-center mb-6 text-indigo-400">RandString</h1>
         
         {/* Input for string length */}
         <div className="mb-6">
