@@ -1,4 +1,4 @@
-# Random String Generator
+# RandString - Random String Generator
 
 A modern, vibrant React application for generating secure random strings with a beautiful dark theme and indigo accents. Built with React, Tailwind CSS v4, and modern React hooks.
 
